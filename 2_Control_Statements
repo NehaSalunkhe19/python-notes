@@ -1,0 +1,5 @@
+# Python Control Statements
+
+Control statements are used to control the flow of a program.
+They decide which block of code should execute based on conditions.
+The most common control statements are `if`, `if-else`, and `elif`.
