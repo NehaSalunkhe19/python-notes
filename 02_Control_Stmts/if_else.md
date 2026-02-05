@@ -1,25 +1,22 @@
- Python Control Statements – if, elif, else
 
-Control statements are used to control the flow of execution of a program
-based on conditions.
 
----
+## 2. if-else Statement
 
-## 1. if Statement
+The if-else statement is used when we want to execute one block if the condition is true and another block if it is false.
 
-The `if` statement is used to execute a block of code **only when a condition is true**.
-
-### Syntax
-```python
+Syntax
 if condition:
     statement(s)
+else:
+    statement(s)
 
+Example
+number = 5
 
-Example: 
-age = 18
+if number % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
 
-if age >= 18:
-    print("You are eligible to vote")
-
-Output:
-You are eligible to vote
+Output
+Odd number
