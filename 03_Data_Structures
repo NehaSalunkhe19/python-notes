@@ -1,0 +1,16 @@
+Data Structure 
+
+A data structure is a way to store, organize, and manage data so it can be used efficiently.
+
+In Python, data structures help us:
+
+Store data properly
+Access data faster
+Write clean and efficient code
+
+There are different Data Structures in Python:
+1.List
+2.Tuple
+3.String
+4.Set
+5.Dictionary 
